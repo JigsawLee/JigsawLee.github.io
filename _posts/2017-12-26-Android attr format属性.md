@@ -4,7 +4,7 @@ title:      Android attr format 属性
 subtitle:   Android自定义view attr的format属性
 date:       2017-12-27
 author:     JigsawLee
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-android.jpg
 catalog: true
 
 ---
