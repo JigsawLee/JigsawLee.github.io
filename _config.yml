@@ -1,7 +1,7 @@
 # Site settings
 title: JigsawLee的博客
 SEOTitle: JigsawLee的博客
-header-img: img/post-bg-desk.jpg
+header-img: img/home-bg-porsche.jpg
 email: xdragon.lee24@gmail.com
 description: "Every failure is leading towards success."
 keyword: "JigsawLee的博客, Android, Java, JavaScript"
@@ -22,7 +22,7 @@ RSS: false
 #zhihu_username:     JigsawLee
 github_username:    JigsawLee
 #facebook_username:  Null
-jianshu_username:   JigsawLee
+#jianshu_username:   JigsawLee
 #twitter_username:   JigsawLee
 
 
