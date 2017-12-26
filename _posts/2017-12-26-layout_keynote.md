@@ -1,0 +1,39 @@
+---
+layout:     keynote
+title:      这是我的第一篇文章
+subtitle:   markdown基础语法
+date:       2017-12-26
+author:     JigsawLee
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+---
+
+# # 一级标题
+## ## 二级标题
+### ### 三级标题
+#### #### 四级标题
+##### ##### 五级标题
+###### ###### 六级标题
+- 列表-
+---
+---分割线
+1. 撒地方
+2. 链接[链接](https://www.baidu.com)
+>‘>’这是引用的前缀
+
+*斜体前后*  **粗体**
+#### 代码引用
+`Hello World`
+```
+public ChaosGestureView(Context context) {
+      this(context,null);
+}
+```
+dog|cat|tiger
+-|-|-
+1|2|3
+4|5|6
+
+
+
+
