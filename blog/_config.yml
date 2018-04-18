@@ -7,7 +7,6 @@ description: "Every failure is leading towards success."
 keyword: "JigsawLee的博客, Android, Java, JavaScript"
 url: "http://JigsawLee.github.io"          # your host, for absolute URL
 baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
-root:"/blog"
 github_repo: "https://github.com/JigsawLee/JigsawLee.github.io.git" # you code repository
 
 # Sidebar settings
