@@ -6,7 +6,8 @@ date:       2017-12-27
 author:     JigsawLee
 header-img: img/post-bg-android.jpg
 catalog: true
-
+tags:
+    - Android
 ---
 
 属性名称使用小驼峰命名规则
